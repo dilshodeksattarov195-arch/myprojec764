@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesender",
+        "uuid": 3713804,
+        "checksum": "axc0ne"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
